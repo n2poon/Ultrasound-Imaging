@@ -13,4 +13,4 @@ Main Objectives Achieved with this program
 4. Dynamically allocated memory using pointers for data handling
 5. Created and accessed 2-D arrays for processing
 
-Files included in this file: main.cpp and amode.cpp. These files combine to create an output.csv which can then be uploaded to an Excel spreadsheet to create a graph.
+Files included in this file: main.cpp and Amode.cpp. These files combine to create an output.csv which can then be uploaded to an Excel spreadsheet to create a graph.
